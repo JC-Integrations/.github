@@ -1,16 +1,16 @@
 # JC-Integrations - Du fandt os 👋  
 
-**Hvad laver vi?**  
+### Hvad laver vi?  
 Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre.  
 
-**Hvad har vi lavet?**  
+### Hvad har vi lavet?  
 [Guildy - Den største danske Discord bot](https://guildy.dk)  
 [Korterelink - Gør dine links kortere](https://korterelink.dk)  
 [LectioDL - Lectio Dokument Downloader](https://github.com/JC-Integrations/LectioDL)  
 [Bump Buddy - En anden stor Discord bot på over 14.000 servere](https://bumpbuddy.xyz/invite)  
 Og endnu mere på vej...
 
-**Samlede erfaringer:**  
+### Samlede erfaringer:  
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
