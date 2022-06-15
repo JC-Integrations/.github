@@ -19,7 +19,10 @@ En anden stor Discord bot på over 14.000 servere
 **Og endnu mere på vej...**
 
 ## Samlede erfaringer:  
+<details open>
+
 <p align="center">
+<summary>Fold ud</summary>
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
