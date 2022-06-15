@@ -1,4 +1,4 @@
-## Du fandt os 👋
+# Du fandt os 👋
 ## JC-Integrations
 
 **Hvad laver vi?**
