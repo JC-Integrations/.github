@@ -1,11 +1,11 @@
-# Du fandt os 👋
-## JC-Integrations
+# Du fandt os 👋  
+### JC-Integrations
 
-**Hvad laver vi?**
-Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre.
+**Hvad laver vi?**  
+Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre.  
 
 
-**Samlede erfaringer:**
+**Samlede erfaringer:**  
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
