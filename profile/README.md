@@ -3,6 +3,12 @@
 **Hvad laver vi?**  
 Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre.  
 
+**Hvad har vi lavet?**  
+[Guildy - Den største danske Discord bot](https://guildy.dk)  
+[Korterelink - Gør dine links kortere](https://korterelink.dk)  
+[LectioDL - Lectio Dokument Downloader](https://github.com/JC-Integrations/LectioDL)  
+[Bump Buddy - En anden stor Discord bot på over 14.000 servere](https://bumpbuddy.xyz/invite)  
+Og endnu mere på vej...
 
 **Samlede erfaringer:**  
 <p align="center">
