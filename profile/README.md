@@ -19,7 +19,7 @@ En anden stor Discord bot på over 14.000 servere
 **Og endnu mere på vej...**
 
 ## Samlede erfaringer:  
-<details open>
+<details close>
 
 <p align="center">
 <summary>Fold ud</summary>
