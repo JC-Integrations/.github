@@ -14,7 +14,7 @@ Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre
 <a href="https://github.com/JC-Integrations/LectioDL"><b>LectioDL</b></a>  
   <p>Program der downloader alle dine Lectio dokumenter, så du kan bruge dem til eksamen eller terminsprøverne.</p>  
 <a href="https://bumpbuddy.xyz/invite"><b>Bump Buddy</b></a>  
-  <p>En anden stor Discord bot på over 14.000 servere.</p>  
+  <p>En anden stor Discord bot på over 15.500 servere.</p>  
 <b>Og endnu mere på vej...</b>
 </p>
 </details>
