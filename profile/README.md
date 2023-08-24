@@ -1,4 +1,4 @@
-# JC-Integrations - Du fandt os 👋  
+# JC Integrations - Du fandt os 👋  
 
 ## Hvad laver vi?  
 Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre. Størstedelen af vores projekter og udgivelser vil formentligt ikke være open sourced.  
