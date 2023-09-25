@@ -11,7 +11,7 @@ Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre
   <p>Den største danske Discord bot.</p>  
 <a href="https://korterelink.dk"><b>Korterelink</b></a>  
   <p>Gør dine links kortere.</p>  
-<a href="https://github.com/JC-Integrations/LectioDL"><b>LectioDL</b></a>  
+<a href="https://github.com/JC-Integrations/LectioDL"><b>LectioDL</b></a> (Arkiv)  
   <p>Program der downloader alle dine Lectio dokumenter, så du kan bruge dem til eksamen eller terminsprøverne.</p>  
 <a href="https://bumpbuddy.xyz/invite"><b>Bump Buddy</b></a>  
   <p>En anden stor Discord bot på over 16.000 servere.</p>  
