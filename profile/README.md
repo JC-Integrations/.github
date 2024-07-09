@@ -1,4 +1,4 @@
-# JC Integrations - Du fandt os 👋  
+# JC Integrations 
 
 ## Hvad laver vi?  
 Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre hverdagen lidt bedre. Størstedelen af vores projekter og udgivelser vil formentligt ikke være open sourced.  
@@ -14,7 +14,7 @@ Vi er en relativt ny virksomhed der laver software/apps til folket, for at gøre
 <a href="https://github.com/JC-Integrations/LectioDL"><b>LectioDL</b></a> (Arkiv)  
   <p>Program der downloader alle dine Lectio dokumenter, så du kan bruge dem til eksamen eller terminsprøverne.</p>  
 <a href="https://bumpbuddy.xyz/invite"><b>Bump Buddy</b></a>  
-  <p>En anden stor Discord bot på over 16.000 servere.</p>  
+  <p>En anden stor Discord bot på over 21.000 servere.</p>  
 <b>Og endnu mere på vej...</b>
 </p>
 </details>
